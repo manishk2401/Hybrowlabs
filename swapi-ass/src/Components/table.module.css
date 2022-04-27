@@ -1,0 +1,14 @@
+.table {
+  width: 100%;
+}
+
+.delBtn {
+  padding: 5px 15px;
+  color: red;
+}
+
+.table th,
+.tr td {
+  border: solid white 1px;
+  padding: 5px;
+}
