@@ -9,7 +9,7 @@ export default function Table(props) {
         <thead>
           <tr>
             <th>Name</th>
-            <th style={{ width: "200px" }}>Actoin</th>
+            <th style={{ width: "200px" }}>Action</th>
           </tr>
         </thead>
         <tbody>
